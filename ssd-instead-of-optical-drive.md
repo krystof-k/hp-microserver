@@ -11,7 +11,7 @@ However, it's a bit more complicated with the power. You have two options:
 - buy a floppy 4-pin to SATA power cable (such as [Delock 83918](https://www.amazon.de/-/cs/dp/B018NKPZVW)) and place a 2.5" SSD in the optical drive's place, or
 - buy a PCIe M.2 adapter (such as [AXAGON PCEM2-D](https://www.amazon.de/AXAGON-PCEM2-D-Anschluss-Festplatten-Computer/dp/B07VM1RV3Y)) and use an M.2 SATA SSD.
 
-## How to voot from the SSD
+## How to boot from the SSD
 
 The MicroServer always tries to boot from the first slot in SATA AHCI mode.
 
