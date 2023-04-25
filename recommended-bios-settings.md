@@ -17,7 +17,7 @@
 
 - **Disable intelligent provisioning**
 
-  If you don't use intelligent provisioning, it is a good idea to disable it as it will speed up the boot a little bit.
+  If you don't use intelligent provisioning, it may be good idea to disable it as it may speed up the boot a little bit.
   
   1. Go to _Server Security_.
   2. And set _Intelligent Provisioning (F10 Prompt)_ to _Disabled_.
