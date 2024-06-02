@@ -21,6 +21,8 @@
   
   1. Go to _Server Security_.
   2. And set _Intelligent Provisioning (F10 Prompt)_ to _Disabled_.
+ 
+  _Note: disabling inteligent provisioning will also disable Smart Storage Administrator._
 
 - **Set server name**
 
