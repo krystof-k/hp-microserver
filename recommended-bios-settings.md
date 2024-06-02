@@ -22,6 +22,13 @@
   1. Go to _System Options_ → _SATA Controller Options_.
   2. Select _Enable SATA AHCI Support_.
 
+- **Disable Intel VT-d**
+
+  Unfortunately Intel VT-d (PCI-e passthrough for virtualization) breaks installer with recent kernels. If you don't need it, disable it.
+
+  1. Go to _System Options_ → _Processor Options_.
+  2. Set _Intel(R) VT-d_ to disabled.
+
 - **Disable intelligent provisioning**
 
   If you don't use intelligent provisioning, it may be good idea to disable it as it may speed up the boot a little bit.
