@@ -15,6 +15,13 @@
   1. Go to _Power Management Options_.
   2. Set _HP Power Regulator_ to _OS Control Mode_.
 
+- **Disable RAID controller**
+
+  In case you don't plan to use the RAID controller, disable it:
+
+  1. Go to _System Options_ → _SATA Controller Options_.
+  2. Select _Enable SATA AHCI Support_.
+
 - **Disable intelligent provisioning**
 
   If you don't use intelligent provisioning, it may be good idea to disable it as it may speed up the boot a little bit.
