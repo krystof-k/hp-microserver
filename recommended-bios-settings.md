@@ -21,3 +21,10 @@
   
   1. Go to _Server Security_.
   2. And set _Intelligent Provisioning (F10 Prompt)_ to _Disabled_.
+
+- **Set server name**
+
+  You can set server name, which is used for example in iLO.
+  
+  1. Go to _Server Asset Text_ → _Server Info Text_.
+  2. And set _Server Name_ to something.
